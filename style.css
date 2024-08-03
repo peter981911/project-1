@@ -1,0 +1,11 @@
+/* This is an External style.css file */
+ .right{
+    width:70%;
+    border:0;
+}
+.top
+{
+    position: absolute;
+    top: 0px; 
+    right: 0px;
+}
